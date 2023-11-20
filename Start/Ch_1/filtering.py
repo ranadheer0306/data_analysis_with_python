@@ -21,6 +21,7 @@ def filterUppers(x):
 # define some sample sequences to operate on
 nums = (1, 8, 4, 5, 13, 26, 381, 410, 58, 47)
 chars = "abcDeFGHiJklmnoP"
+filterEvens(nums)
 
 # TODO: use filter to remove items from a list
 
